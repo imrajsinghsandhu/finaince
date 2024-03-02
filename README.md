@@ -1,0 +1,2 @@
+# finaince
+ ai for finance
