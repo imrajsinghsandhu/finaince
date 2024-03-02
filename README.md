@@ -28,7 +28,7 @@
 
 ## Deployment
 Microservices architecture
-- Frontend --> netlify
+- Frontend --> Netlify
 - Backend DB --> Mongo/PostgreSQL --> AWS?
 - Backend ML --> ??? where to host lol...gotta figure this out
 
